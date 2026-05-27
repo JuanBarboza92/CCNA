@@ -1,1 +1,55 @@
+# CCNA1 Packet Tracer – Ejercicios Resueltos
 
+Esta carpeta contiene una colección de **ejercicios completamente resueltos** de CCNA 1 (Introduction to Networks), diseñados para ayudar a estudiantes a practicar y comprender los fundamentos de redes utilizando Cisco Packet Tracer.
+
+Cada ejercicio incluye:
+
+- ✔️ **Topología completa**  
+- ✔️ **Tablas de direccionamiento y subnetting**  
+- ✔️ **Comandos utilizados paso a paso**  
+- ✔️ **Capturas de configuración y verificación**  
+- ✔️ **Explicación del objetivo del ejercicio**  
+- ✔️ **Archivo .pkt listo para descargar y abrir**
+
+Estos materiales están pensados para quienes desean aprender de forma práctica, siguiendo configuraciones reales y verificando resultados como en un entorno profesional.
+
+---
+
+## 📂 Contenido de esta carpeta
+
+Aquí encontrarás ejercicios resueltos sobre:
+
+- Configuración básica de dispositivos Cisco  
+- Subnetting y direccionamiento IPv4  
+- Configuración de interfaces  
+- Verificación de conectividad  
+- ARP, MAC y tablas de vecinos  
+- Troubleshooting de redes  
+- Conceptos fundamentales de CCNA 1  
+
+Cada archivo incluye su solución completa.
+
+---
+
+## 📥 Descarga de los ejercicios
+
+Todos los ejercicios pueden descargarse directamente desde esta carpeta.  
+Además, también están disponibles dentro de mi repositorio principal:
+
+👉 **Carpeta CCNA1 Packet Tracer:**  
+https://github.com/JuanBarboza92/CCNA-Packet-Tracer/tree/principal/Ccna1
+
+---
+
+## 🎯 Objetivo de esta sección
+
+- Facilitar el estudio de CCNA 1 con ejemplos reales  
+- Proveer ejercicios resueltos para practicar y comparar configuraciones  
+- Documentar mi progreso en redes y mi camino hacia CCNA 2 y CCNA 3  
+- Ayudar a otros estudiantes que recién comienzan en networking  
+
+---
+
+## 👨‍💻 Sobre mí
+
+Soy Juan Barboza, estudiante de redes y soporte IT, certificado **CCST Networking** y actualmente
