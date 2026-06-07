@@ -1,1 +1,103 @@
+🖥️ PACKET TRACER – Laboratorios y Actividades Prácticas
+Esta sección contiene todos mis laboratorios, actividades guiadas y ejercicios prácticos realizados en Cisco Packet Tracer.
+Es el corazón de mi práctica para CCNA, CCST y el curso oficial de Cisco.
 
+Aquí vas a encontrar topologías reales, ejercicios resueltos, prácticas guiadas y actividades para reforzar conceptos de redes.
+
+📂 Estructura de esta Carpeta
+📁 CCNA 1-2-3/
+Laboratorios correspondientes a los tres módulos principales del CCNA:
+
+CCNA1 – Introduction to Networks
+
+CCNA2 – Switching, Routing & Wireless Essentials
+
+CCNA3 – Enterprise Networking, Security & Automation
+
+Incluye:
+
+Actividades del curso oficial
+
+Topologías completas
+
+Ejercicios de configuración CLI
+
+Troubleshooting
+
+Archivos .pkt, .pka, .pksz
+
+📁 CCST/
+Material práctico para la certificación Cisco Certified Support Technician:
+
+Laboratorios introductorios
+
+Actividades de redes básicas
+
+Ejercicios de configuración inicial
+
+Topologías simples para principiantes
+
+Ideal para quienes están empezando en redes.
+
+📁 Curso Packet Tracer/
+Actividades del curso oficial de Cisco Packet Tracer, incluyendo:
+
+Introducción al entorno
+
+Edición de topologías
+
+Cableado físico y lógico
+
+Controladores de red
+
+Simulación y análisis de paquetes
+
+Actividades guiadas paso a paso
+
+Perfecto para aprender a dominar Packet Tracer desde cero.
+
+🧪 Tecnologías y Herramientas
+Cisco Packet Tracer
+
+Cisco IOS CLI
+
+Simulación de redes
+
+Troubleshooting
+
+Switching & Routing básico
+
+Redes inalámbricas
+
+Git LFS para archivos grandes
+
+▶️ Cómo usar esta sección
+✔ Abrí cualquier archivo .pkt, .pka o .pksz
+Necesitás Packet Tracer 8.x o superior.
+
+✔ Seguí las actividades guiadas
+Muchos labs incluyen instrucciones dentro del archivo.
+
+✔ Compará configuraciones
+Podés usar mis labs como referencia para tus propias prácticas.
+
+✔ Practicá troubleshooting
+Hay actividades diseñadas para encontrar y corregir errores.
+
+✔ Usalo como base para tu portafolio
+Las topologías están organizadas para que puedas reutilizarlas.
+
+🤝 Contacto
+Si querés compartir material, sugerir mejoras o simplemente conectar, podés escribirme:
+
+🔗 LinkedIn
+https://www.linkedin.com/in/juanmanuelbarboza
+
+📁 Google Drive – Material de Estudio
+Pegá aquí tu enlace real:
+https://drive.google.com/drive/folders/XXXXXXXXXXXX
+
+🙌 Mensaje para quien use esta sección
+Este repositorio es parte de mi proceso real de aprendizaje.
+Si estos labs te ayudan, me alegra muchísimo.
+Si querés aportar algo, mejorar un ejercicio o compartir tus propios labs, estoy siempre abierto a colaborar.
