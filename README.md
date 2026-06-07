@@ -1,11 +1,10 @@
 🌐 CCNA – Laboratorios, Material de Estudio y Recursos
 Bienvenido a mi repositorio de estudio para Cisco CCNA.
-Aquí encontrarás laboratorios reales, ejercicios resueltos, libros, presentaciones, material de apoyo y todo lo que utilizo en mi camino hacia la certificación.
+Aquí encontrarás laboratorios reales, ejercicios resueltos, libros, presentaciones, infografías, material de apoyo y todo lo que utilizo en mi camino hacia la certificación.
 
 Mi objetivo es que este contenido también te ayude a vos en tu aprendizaje.
 
 📂 Estructura del Repositorio
-
 📁 PACKET TRACER/
 Laboratorios prácticos del curso oficial de Cisco:
 
@@ -52,6 +51,19 @@ Resúmenes
 
 Explicaciones gráficas
 
+🖼️ INFOGRAFÍAS/
+Material visual creado para facilitar el estudio:
+
+Resúmenes gráficos de conceptos clave
+
+Diagramas de redes
+
+Explicaciones visuales de protocolos
+
+Infografías listas para compartir o estudiar rápido
+
+Esta sección forma parte de mi portafolio visual y de estudio.
+
 📄 Tabla Subnetting.xlsx.pdf
 Tabla personalizada para practicar subnetting.
 
@@ -95,7 +107,6 @@ https://www.linkedin.com/in/juanmanuelbarboza
 
 📁 Google Drive – Material de Estudio
 
-
 🙌 Mensaje para quien use este repositorio
 Este repositorio es parte de mi proceso real de aprendizaje.
 Lo construyo día a día mientras avanzo en mi certificación CCNA.
@@ -104,5 +115,4 @@ Si este contenido te ayuda, me alegra muchísimo.
 Si querés aportar algo, mejorar un lab o compartir tu progreso, escribime cuando quieras.
 
 🚀 Estado del Proyecto
-En constante crecimiento.
-Subo contenido nuevo todas las semanas.
+En constante crecimiento
