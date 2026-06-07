@@ -91,7 +91,7 @@ Si este material te sirve, si querés compartir recursos o si necesitás ayuda, 
 Siempre estoy abierto a conectar con otros estudiantes y profesionales.
 
 🔗 LinkedIn
-https://www.linkedin.com/in/juanmanuelbarboza (linkedin.com in Bing)
+https://www.linkedin.com/in/juanmanuelbarboza
 
 📁 Google Drive – Material de Estudio
 
