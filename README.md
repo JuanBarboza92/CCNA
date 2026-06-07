@@ -106,6 +106,7 @@ Siempre estoy abierto a conectar con otros estudiantes y profesionales.
 https://www.linkedin.com/in/juanmanuelbarboza
 
 📁 Google Drive – Material de Estudio
+https://drive.google.com/drive/folders/13qW_2-Q8l9-4-aWrJTKOpCkse439nDH1
 
 🙌 Mensaje para quien use este repositorio
 Este repositorio es parte de mi proceso real de aprendizaje.
