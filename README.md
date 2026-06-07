@@ -1,60 +1,108 @@
-# CCNA Packet Tracer Labs — CCNA 1
+🌐 CCNA – Laboratorios, Material de Estudio y Recursos
+Bienvenido a mi repositorio de estudio para Cisco CCNA.
+Aquí encontrarás laboratorios reales, ejercicios resueltos, libros, presentaciones, material de apoyo y todo lo que utilizo en mi camino hacia la certificación.
 
-Repositorio profesional donde documento mis prácticas, ejercicios y laboratorios de **CCNA 1 (Introduction to Networks)** utilizando Cisco Packet Tracer.
+Mi objetivo es que este contenido también te ayude a vos en tu aprendizaje.
 
-Este repositorio refleja mi progreso en la primera etapa del camino hacia la certificación CCNA, con un enfoque práctico y orientado a la resolución de problemas reales de redes.
+📂 Estructura del Repositorio
 
----
+📁 PACKET TRACER/
+Laboratorios prácticos del curso oficial de Cisco:
 
-## 📂 Contenido del repositorio (CCNA 1)
-Incluye laboratorios relacionados con:
+Archivos .pkt, .pka, .pksz
 
-- Configuración básica de dispositivos
-- VLANs y segmentación inicial
-- Switching y capa 2
-- Direccionamiento IPv4 / IPv6
-- ARP, MAC y tablas de vecinos
-- Modelos OSI / TCP-IP
-- Troubleshooting básico
-- Conceptos fundamentales de redes
+Actividades guiadas
 
-> **Nota:** Todos los ejercicios actuales pertenecen exclusivamente a **CCNA 1**.
+Ejercicios de troubleshooting
 
----
+Topologías reales
 
-## 🧭 Próximas etapas (CCNA 2 y CCNA 3)
-A medida que avance en mi formación, agregaré nuevas carpetas:
+Material en español e inglés
 
-- **CCNA 2 — Switching, Routing & Wireless Essentials**
-- **CCNA 3 — Enterprise Networking, Security & Automation**
+Archivos grandes gestionados con Git LFS.
 
-Cada etapa tendrá su propio conjunto de laboratorios organizados y documentados.
+📁 CCNA1 Packet Tracer Ejercicios Resueltos/
+Ejercicios del módulo 1:
 
----
+Actividades resueltas paso a paso
 
-## 🧪 Cómo usar los archivos
-1. Descargá el archivo `.pkt` o `.pka` que quieras revisar.  
-2. Abrilo con **Cisco Packet Tracer 8.x o superior**.  
-3. Explorá la topología, la configuración y los objetivos del ejercicio.
+Topologías base
 
----
+Configuraciones CLI
 
-## 🎯 Objetivo del repositorio
-- Consolidar mis conocimientos de **CCNA 1**.  
-- Practicar escenarios reales de infraestructura.  
-- Compartir ejercicios útiles para otros estudiantes de redes.  
-- Construir un portfolio técnico profesional visible para reclutadores.
+Prácticas guiadas del curso oficial
 
----
+📁 LIBROS CCNA/
+Material teórico:
 
-## 👨‍💻 Sobre mí
-Soy Juan Barboza, estudiante de redes y soporte IT, certificado **CCST Networking** y actualmente avanzando en mi formación hacia **CCNA**.
+Libros PDF
 
-Me apasiona el networking, la resolución de problemas y el aprendizaje continuo.
+Documentación técnica
 
----
+Guías de estudio
 
-## 🔗 Conectemos
-Podés ver más sobre mi camino profesional en mi perfil de LinkedIn:
+Material complementario
 
-👉 **https://www.linkedin.com/in/juanmanuelbarboza**
+📁 POWER POINT/
+Presentaciones visuales:
+
+Diapositivas
+
+Resúmenes
+
+Explicaciones gráficas
+
+📄 Tabla Subnetting.xlsx.pdf
+Tabla personalizada para practicar subnetting.
+
+🧪 Tecnologías y Herramientas
+Cisco Packet Tracer
+
+Cisco IOS CLI
+
+Git & GitHub
+
+Git LFS
+
+Subnetting IPv4/IPv6
+
+Switching & Routing básico
+
+▶️ Cómo usar este repositorio
+Este repositorio está pensado para que cualquier estudiante pueda:
+
+✔ Descargar y abrir laboratorios en Packet Tracer
+Compatible con Packet Tracer 8.x o superior.
+
+✔ Seguir ejercicios resueltos paso a paso
+Perfecto para practicar y comparar configuraciones.
+
+✔ Usar libros y PDFs como apoyo teórico
+Organizados por carpetas para fácil acceso.
+
+✔ Practicar subnetting
+Incluye tabla personalizada para repaso rápido.
+
+✔ Inspirarse para crear su propio portafolio
+La estructura está pensada para ser clara, profesional y escalable.
+
+🤝 Contacto
+Si este material te sirve, si querés compartir recursos o si necesitás ayuda, podés contactarme.
+Siempre estoy abierto a conectar con otros estudiantes y profesionales.
+
+🔗 LinkedIn
+https://www.linkedin.com/in/juanmanuelbarboza (linkedin.com in Bing)
+
+📁 Google Drive – Material de Estudio
+
+
+🙌 Mensaje para quien use este repositorio
+Este repositorio es parte de mi proceso real de aprendizaje.
+Lo construyo día a día mientras avanzo en mi certificación CCNA.
+
+Si este contenido te ayuda, me alegra muchísimo.
+Si querés aportar algo, mejorar un lab o compartir tu progreso, escribime cuando quieras.
+
+🚀 Estado del Proyecto
+En constante crecimiento.
+Subo contenido nuevo todas las semanas.
