@@ -72,10 +72,6 @@ Cisco Packet Tracer
 
 Cisco IOS CLI
 
-Git & GitHub
-
-Git LFS
-
 Subnetting IPv4/IPv6
 
 Switching & Routing básico
